@@ -1,5 +1,5 @@
 # php-alpine-deployer
-Base php 7.4 alpine image with deployer installed.
+Base PHP 8 Alpine image with Deployer installed.
 
 ### Installed tools
 
